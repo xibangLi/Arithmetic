@@ -1,4 +1,4 @@
-package com.bang.br;
+package com.bang;
 
 /**
  * Definition for singly-linked list.

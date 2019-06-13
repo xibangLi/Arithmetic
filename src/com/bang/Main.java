@@ -1,4 +1,4 @@
-package com.bang.br;
+package com.bang;
 
 public class Main {
 

@@ -1,6 +1,6 @@
-package com.bang.br;
+package com.bang.leetCode;
 
-import java.util.List;
+import com.bang.ListNode;
 
 /**
  * You are given two non-empty linked lists representing two
