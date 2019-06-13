@@ -14,7 +14,7 @@ public class SolutionTwoSumTest {
     @Deployment
     public static JavaArchive createDeployment() {
         return ShrinkWrap.create(JavaArchive.class)
-                .addClass(SolutionTwoSum.class)
+                .addClass(Solution1.class)
                 .addAsManifestResource(EmptyAsset.INSTANCE, "beans.xml");
     }
 

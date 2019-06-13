@@ -14,7 +14,7 @@ package com.bang.br;
  * Because nums[0] + nums[1] = 2 + 7 = 9,
  * return [0, 1].
  */
-public class SolutionTwoSum {
+public class Solution1 {
 
     //方法1
     public int[] towSum(int[] nums, int target){
