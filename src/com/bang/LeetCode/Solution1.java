@@ -1,4 +1,4 @@
-package com.bang.leetCode;
+package com.bang.LeetCode;
 
 /**
  * Given an array of integers, return indices of the two

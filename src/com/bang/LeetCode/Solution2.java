@@ -1,4 +1,4 @@
-package com.bang.leetCode;
+package com.bang.LeetCode;
 
 import com.bang.ListNode;
 
